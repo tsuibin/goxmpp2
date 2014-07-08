@@ -1,0 +1,2 @@
+Don't force the client to understand the RFCs. Keep message types in a
+convenient set of constants, for example.
